@@ -5,7 +5,300 @@
 	<float4 ux:Global="accent"       	  ux:Value="#FF9800"   />
 	<float4 ux:Global="primary_text"      ux:Value="#212121"   />
 	<float4 ux:Global="secondary_text"	  ux:Value="#727272"  />
-	<float4 ux:Global="icons" 		  ux:Value="#FFFFFF"   />
+	<float4 ux:Global="icons" 		      ux:Value="#FFFFFF"   />
 	<float4 ux:Global="divider"			  ux:Value="#727272"   />
 	<float4 ux:Global="background_color"  ux:Value="#FAFAFA"   />
+
+	<!-- red -->
+	<float4 ux:Global="red-50"   ux:Value="#FFEBEE"/>
+	<float4 ux:Global="red-100"  ux:Value="#FFCDD2"/>
+	<float4 ux:Global="red-200"  ux:Value="#EF9A9A"/>
+	<float4 ux:Global="red-300"  ux:Value="#E57373"/>
+	<float4 ux:Global="red-400"  ux:Value="#EF5350"/>
+	<float4 ux:Global="red-500"  ux:Value="#F44336"/>
+	<float4 ux:Global="red-600"  ux:Value="#E53935"/>
+	<float4 ux:Global="red-700"  ux:Value="#D32F2F"/>
+	<float4 ux:Global="red-800"  ux:Value="#C62828"/>
+	<float4 ux:Global="red-900"  ux:Value="#B71C1C"/>
+	<float4 ux:Global="red-A100" ux:Value="#FF8A80"/>
+	<float4 ux:Global="red-A200" ux:Value="#FF5252"/>
+	<float4 ux:Global="red-A400" ux:Value="#FF1744"/>
+	<float4 ux:Global="red-A700" ux:Value="#D50000"/>
+
+	<!-- pink -->
+	<float4 ux:Global="pink-50"   ux:Value="#FCE4EC" />
+	<float4 ux:Global="pink-100"  ux:Value="#F8BBD0" />
+	<float4 ux:Global="pink-200"  ux:Value="#F48FB1" />
+	<float4 ux:Global="pink-300"  ux:Value="#F06292" />
+	<float4 ux:Global="pink-400"  ux:Value="#EC407A" />
+	<float4 ux:Global="pink-500"  ux:Value="#E91E63" />
+	<float4 ux:Global="pink-600"  ux:Value="#D81B60" />
+	<float4 ux:Global="pink-700"  ux:Value="#C2185B" />
+	<float4 ux:Global="pink-800"  ux:Value="#AD1457" />
+	<float4 ux:Global="pink-900"  ux:Value="#880E4F" />
+	<float4 ux:Global="pink-A100" ux:Value="#FF80AB" />
+	<float4 ux:Global="pink-A200" ux:Value="#FF4081" />
+	<float4 ux:Global="pink-A400" ux:Value="#F50057" />
+	<float4 ux:Global="pink-A700" ux:Value="#C51162" />
+
+	<!-- purple -->
+	<float4 ux:Global="purple-50"   ux:Value="#F3E5F5" />
+	<float4 ux:Global="purple-100"  ux:Value="#E1BEE7" />
+	<float4 ux:Global="purple-200"  ux:Value="#CE93D8" />
+	<float4 ux:Global="purple-300"  ux:Value="#BA68C8" />
+	<float4 ux:Global="purple-400"  ux:Value="#AB47BC" />
+	<float4 ux:Global="purple-500"  ux:Value="#9C27B0" />
+	<float4 ux:Global="purple-600"  ux:Value="#8E24AA" />
+	<float4 ux:Global="purple-700"  ux:Value="#7B1FA2" />
+	<float4 ux:Global="purple-800"  ux:Value="#6A1B9A" />
+	<float4 ux:Global="purple-900"  ux:Value="#4A148C" />
+	<float4 ux:Global="purple-A100" ux:Value="#EA80FC" />
+	<float4 ux:Global="purple-A200" ux:Value="#E040FB" />
+	<float4 ux:Global="purple-A400" ux:Value="#D500F9" />
+	<float4 ux:Global="purple-A700" ux:Value="#AA00FF" />
+	
+	<!-- deep-purple -->
+	<float4 ux:Global="deep-purple-50"   ux:Value="#EDE7F6" />
+	<float4 ux:Global="deep-purple-100"  ux:Value="#D1C4E9" />
+	<float4 ux:Global="deep-purple-200"  ux:Value="#B39DDB" />
+	<float4 ux:Global="deep-purple-300"  ux:Value="#9575CD" />
+	<float4 ux:Global="deep-purple-400"  ux:Value="#7E57C2" />
+	<float4 ux:Global="deep-purple-500"  ux:Value="#673AB7" />
+	<float4 ux:Global="deep-purple-600"  ux:Value="#5E35B1" />
+	<float4 ux:Global="deep-purple-700"  ux:Value="#512DA8" />
+	<float4 ux:Global="deep-purple-800"  ux:Value="#4527A0" />
+	<float4 ux:Global="deep-purple-900"  ux:Value="#311B92" />
+	<float4 ux:Global="deep-purple-A100" ux:Value="#B388FF" />
+	<float4 ux:Global="deep-purple-A200" ux:Value="#7C4DFF" />
+	<float4 ux:Global="deep-purple-A400" ux:Value="#651FFF" />
+	<float4 ux:Global="deep-purple-A700" ux:Value="#6200EA" />
+	
+	<!-- indigo -->
+	<float4 ux:Global="indigo-50"   ux:Value="#E8EAF6" />
+	<float4 ux:Global="indigo-100"  ux:Value="#C5CAE9" />
+	<float4 ux:Global="indigo-200"  ux:Value="#9FA8DA" />
+	<float4 ux:Global="indigo-300"  ux:Value="#7986CB" />
+	<float4 ux:Global="indigo-400"  ux:Value="#5C6BC0" />
+	<float4 ux:Global="indigo-500"  ux:Value="#3F51B5" />
+	<float4 ux:Global="indigo-600"  ux:Value="#3949AB" />
+	<float4 ux:Global="indigo-700"  ux:Value="#303F9F" />
+	<float4 ux:Global="indigo-800"  ux:Value="#283593" />
+	<float4 ux:Global="indigo-900"  ux:Value="#1A237E" />
+	<float4 ux:Global="indigo-A100" ux:Value="#8C9EFF" />
+	<float4 ux:Global="indigo-A200" ux:Value="#536DFE" />
+	<float4 ux:Global="indigo-A400" ux:Value="#3D5AFE" />
+	<float4 ux:Global="indigo-A700" ux:Value="#304FFE" />
+
+	<!-- blue -->
+	<float4 ux:Global="blue-50"   ux:Value="#E3F2FD" />
+	<float4 ux:Global="blue-100"  ux:Value="#BBDEFB" />
+	<float4 ux:Global="blue-200"  ux:Value="#90CAF9" />
+	<float4 ux:Global="blue-300"  ux:Value="#64B5F6" />
+	<float4 ux:Global="blue-400"  ux:Value="#42A5F5" />
+	<float4 ux:Global="blue-500"  ux:Value="#2196F3" />
+	<float4 ux:Global="blue-600"  ux:Value="#1E88E5" />
+	<float4 ux:Global="blue-700"  ux:Value="#1976D2" />
+	<float4 ux:Global="blue-800"  ux:Value="#1565C0" />
+	<float4 ux:Global="blue-900"  ux:Value="#0D47A1" />
+	<float4 ux:Global="blue-A100" ux:Value="#82B1FF" />
+	<float4 ux:Global="blue-A200" ux:Value="#448AFF" />
+	<float4 ux:Global="blue-A400" ux:Value="#2979FF" />
+	<float4 ux:Global="blue-A700" ux:Value="#2962FF" />
+	
+	<!-- light-blue -->
+	<float4 ux:Global="light-blue-50"   ux:Value="#E1F5FE" />
+	<float4 ux:Global="light-blue-100"  ux:Value="#B3E5FC" />
+	<float4 ux:Global="light-blue-200"  ux:Value="#81D4FA" />
+	<float4 ux:Global="light-blue-300"  ux:Value="#4FC3F7" />
+	<float4 ux:Global="light-blue-400"  ux:Value="#29B6F6" />
+	<float4 ux:Global="light-blue-500"  ux:Value="#03A9F4" />
+	<float4 ux:Global="light-blue-600"  ux:Value="#039BE5" />
+	<float4 ux:Global="light-blue-700"  ux:Value="#0288D1" />
+	<float4 ux:Global="light-blue-800"  ux:Value="#0277BD" />
+	<float4 ux:Global="light-blue-900"  ux:Value="#01579B" />
+	<float4 ux:Global="light-blue-A100" ux:Value="#80D8FF" />
+	<float4 ux:Global="light-blue-A200" ux:Value="#40C4FF" />
+	<float4 ux:Global="light-blue-A400" ux:Value="#00B0FF" />
+	<float4 ux:Global="light-blue-A700" ux:Value="#0091EA" />
+	
+	<!-- cyan -->
+	<float4 ux:Global="cyan-50"   ux:Value="#E0F7FA" />
+	<float4 ux:Global="cyan-100"  ux:Value="#B2EBF2" />
+	<float4 ux:Global="cyan-200"  ux:Value="#80DEEA" />
+	<float4 ux:Global="cyan-300"  ux:Value="#4DD0E1" />
+	<float4 ux:Global="cyan-400"  ux:Value="#26C6DA" />
+	<float4 ux:Global="cyan-500"  ux:Value="#00BCD4" />
+	<float4 ux:Global="cyan-600"  ux:Value="#00ACC1" />
+	<float4 ux:Global="cyan-700"  ux:Value="#0097A7" />
+	<float4 ux:Global="cyan-800"  ux:Value="#00838F" />
+	<float4 ux:Global="cyan-900"  ux:Value="#006064" />
+	<float4 ux:Global="cyan-A100" ux:Value="#84FFFF" />
+	<float4 ux:Global="cyan-A200" ux:Value="#18FFFF" />
+	<float4 ux:Global="cyan-A400" ux:Value="#00E5FF" />
+	<float4 ux:Global="cyan-A700" ux:Value="#00B8D4" />
+
+	<!-- teal -->
+	<float4 ux:Global="teal-50" ux:Value="#E0F2F1" />
+	<float4 ux:Global="teal-100" ux:Value="#B2DFDB" />
+	<float4 ux:Global="teal-200" ux:Value="#80CBC4" />
+	<float4 ux:Global="teal-300" ux:Value="#4DB6AC" />
+	<float4 ux:Global="teal-400" ux:Value="#26A69A" />
+	<float4 ux:Global="teal-500" ux:Value="#009688" />
+	<float4 ux:Global="teal-600" ux:Value="#00897B" />
+	<float4 ux:Global="teal-700" ux:Value="#00796B" />
+	<float4 ux:Global="teal-800" ux:Value="#00695C" />
+	<float4 ux:Global="teal-900" ux:Value="#004D40" />
+	<float4 ux:Global="teal-A100" ux:Value="#A7FFEB" />
+	<float4 ux:Global="teal-A200" ux:Value="#64FFDA" />
+	<float4 ux:Global="teal-A400" ux:Value="#1DE9B6" />
+	<float4 ux:Global="teal-A700" ux:Value="#00BFA5" />
+
+	<!-- green -->
+	<float4 ux:Global="green-50"   ux:Value="#E8F5E9" />
+	<float4 ux:Global="green-100"  ux:Value="#C8E6C9" />
+	<float4 ux:Global="green-200"  ux:Value="#A5D6A7" />
+	<float4 ux:Global="green-300"  ux:Value="#81C784" />
+	<float4 ux:Global="green-400"  ux:Value="#66BB6A" />
+	<float4 ux:Global="green-500"  ux:Value="#4CAF50" />
+	<float4 ux:Global="green-600"  ux:Value="#43A047" />
+	<float4 ux:Global="green-700"  ux:Value="#388E3C" />
+	<float4 ux:Global="green-800"  ux:Value="#2E7D32" />
+	<float4 ux:Global="green-900"  ux:Value="#1B5E20" />
+	<float4 ux:Global="green-A100" ux:Value="#B9F6CA" />
+	<float4 ux:Global="green-A200" ux:Value="#69F0AE" />
+	<float4 ux:Global="green-A400" ux:Value="#00E676" />
+	<float4 ux:Global="green-A700" ux:Value="#00C853" />
+
+	<!-- light-green -->
+	<float4 ux:Global="light-green-50" 	 ux:Value="#F1F8E9" />
+	<float4 ux:Global="light-green-100"  ux:Value="#DCEDC8" />
+	<float4 ux:Global="light-green-200"  ux:Value="#C5E1A5" />
+	<float4 ux:Global="light-green-300"  ux:Value="#AED581" />
+	<float4 ux:Global="light-green-400"  ux:Value="#9CCC65" />
+	<float4 ux:Global="light-green-500"  ux:Value="#8BC34A" />
+	<float4 ux:Global="light-green-600"  ux:Value="#7CB342" />
+	<float4 ux:Global="light-green-700"  ux:Value="#689F38" />
+	<float4 ux:Global="light-green-800"  ux:Value="#558B2F" />
+	<float4 ux:Global="light-green-900"  ux:Value="#33691E" />
+	<float4 ux:Global="light-green-A100" ux:Value="#CCFF90" />
+	<float4 ux:Global="light-green-A200" ux:Value="#B2FF59" />
+	<float4 ux:Global="light-green-A400" ux:Value="#76FF03" />
+	<float4 ux:Global="light-green-A700" ux:Value="#64DD17" />
+	
+	<!-- lime -->
+	<float4 ux:Global="lime-50"   ux:Value="#F9FBE7" />
+	<float4 ux:Global="lime-100"  ux:Value="#F0F4C3" />
+	<float4 ux:Global="lime-200"  ux:Value="#E6EE9C" />
+	<float4 ux:Global="lime-300"  ux:Value="#DCE775" />
+	<float4 ux:Global="lime-400"  ux:Value="#D4E157" />
+	<float4 ux:Global="lime-500"  ux:Value="#CDDC39" />
+	<float4 ux:Global="lime-600"  ux:Value="#C0CA33" />
+	<float4 ux:Global="lime-700"  ux:Value="#AFB42B" />
+	<float4 ux:Global="lime-800"  ux:Value="#9E9D24" />
+	<float4 ux:Global="lime-900"  ux:Value="#827717" />
+	<float4 ux:Global="lime-A100" ux:Value="#F4FF81" />
+	<float4 ux:Global="lime-A200" ux:Value="#EEFF41" />
+	<float4 ux:Global="lime-A400" ux:Value="#C6FF00" />
+	<float4 ux:Global="lime-A700" ux:Value="#AEEA00" />
+	
+	<!-- yellow -->
+	<float4 ux:Global="yellow-50"   ux:Value="#FFFDE7" />
+	<float4 ux:Global="yellow-100"  ux:Value="#FFF9C4" />
+	<float4 ux:Global="yellow-200"  ux:Value="#FFF59D" />
+	<float4 ux:Global="yellow-300"  ux:Value="#FFF176" />
+	<float4 ux:Global="yellow-400"  ux:Value="#FFEE58" />
+	<float4 ux:Global="yellow-500"  ux:Value="#FFEB3B" />
+	<float4 ux:Global="yellow-600"  ux:Value="#FDD835" />
+	<float4 ux:Global="yellow-700"  ux:Value="#FBC02D" />
+	<float4 ux:Global="yellow-800"  ux:Value="#F9A825" />
+	<float4 ux:Global="yellow-900"  ux:Value="#F57F17" />
+	<float4 ux:Global="yellow-A100" ux:Value="#FFFF8D" />
+	<float4 ux:Global="yellow-A200" ux:Value="#FFFF00" />
+	<float4 ux:Global="yellow-A400" ux:Value="#FFEA00" />
+	<float4 ux:Global="yellow-A700" ux:Value="#FFD600" />
+	
+	<!-- amber -->
+	<float4 ux:Global="amber-50"   ux:Value="#FFF8E1" />
+	<float4 ux:Global="amber-100"  ux:Value="#FFECB3" />
+	<float4 ux:Global="amber-200"  ux:Value="#FFE082" />
+	<float4 ux:Global="amber-300"  ux:Value="#FFD54F" />
+	<float4 ux:Global="amber-400"  ux:Value="#FFCA28" />
+	<float4 ux:Global="amber-500"  ux:Value="#FFC107" />
+	<float4 ux:Global="amber-600"  ux:Value="#FFB300" />
+	<float4 ux:Global="amber-700"  ux:Value="#FFA000" />
+	<float4 ux:Global="amber-800"  ux:Value="#FF8F00" />
+	<float4 ux:Global="amber-900"  ux:Value="#FF6F00" />
+	<float4 ux:Global="amber-A100" ux:Value="#FFE57F" />
+	<float4 ux:Global="amber-A200" ux:Value="#FFD740" />
+	<float4 ux:Global="amber-A400" ux:Value="#FFC400" />
+	<float4 ux:Global="amber-A700" ux:Value="#FFAB00" />
+	
+	<!-- orange -->
+	<float4 ux:Global="orange-50"   ux:Value="#FFF3E0" />
+	<float4 ux:Global="orange-100"  ux:Value="#FFE0B2" />
+	<float4 ux:Global="orange-200"  ux:Value="#FFCC80" />
+	<float4 ux:Global="orange-300"  ux:Value="#FFB74D" />
+	<float4 ux:Global="orange-400"  ux:Value="#FFA726" />
+	<float4 ux:Global="orange-500"  ux:Value="#FF9800" />
+	<float4 ux:Global="orange-600"  ux:Value="#FB8C00" />
+	<float4 ux:Global="orange-700"  ux:Value="#F57C00" />
+	<float4 ux:Global="orange-800"  ux:Value="#EF6C00" />
+	<float4 ux:Global="orange-900"  ux:Value="#E65100" />
+	<float4 ux:Global="orange-A100" ux:Value="#FFD180" />
+	<float4 ux:Global="orange-A200" ux:Value="#FFAB40" />
+	<float4 ux:Global="orange-A400" ux:Value="#FF9100" />
+	<float4 ux:Global="orange-A700" ux:Value="#FF6D00" />
+
+	<!-- deep-orange -->
+	<float4 ux:Global="deep-orange-50"   ux:Value="#FBE9E7" />
+	<float4 ux:Global="deep-orange-100"  ux:Value="#FFCCBC" />
+	<float4 ux:Global="deep-orange-200"  ux:Value="#FFAB91" />
+	<float4 ux:Global="deep-orange-300"  ux:Value="#FF8A65" />
+	<float4 ux:Global="deep-orange-400"  ux:Value="#FF7043" />
+	<float4 ux:Global="deep-orange-500"  ux:Value="#FF5722" />
+	<float4 ux:Global="deep-orange-600"  ux:Value="#F4511E" />
+	<float4 ux:Global="deep-orange-700"  ux:Value="#E64A19" />
+	<float4 ux:Global="deep-orange-800"  ux:Value="#D84315" />
+	<float4 ux:Global="deep-orange-900"  ux:Value="#BF360C" />
+	<float4 ux:Global="deep-orange-A100" ux:Value="#FF9E80" />
+	<float4 ux:Global="deep-orange-A200" ux:Value="#FF6E40" />
+	<float4 ux:Global="deep-orange-A400" ux:Value="#FF3D00" />
+	<float4 ux:Global="deep-orange-A700" ux:Value="#DD2C00" />
+
+	<!-- brown -->
+	<float4 ux:Global="brown-50"  ux:Value="#EFEBE9" />
+	<float4 ux:Global="brown-100" ux:Value="#D7CCC8" />
+	<float4 ux:Global="brown-200" ux:Value="#BCAAA4" />
+	<float4 ux:Global="brown-300" ux:Value="#A1887F" />
+	<float4 ux:Global="brown-400" ux:Value="#8D6E63" />
+	<float4 ux:Global="brown-500" ux:Value="#795548" />
+	<float4 ux:Global="brown-600" ux:Value="#6D4C41" />
+	<float4 ux:Global="brown-700" ux:Value="#5D4037" />
+	<float4 ux:Global="brown-800" ux:Value="#4E342E" />
+	<float4 ux:Global="brown-900" ux:Value="#3E2723" />
+
+	<!-- grey -->
+	<float4 ux:Global="grey-50"  ux:Value="#FAFAFA" />
+	<float4 ux:Global="grey-100" ux:Value="#F5F5F5" />
+	<float4 ux:Global="grey-200" ux:Value="#EEEEEE" />
+	<float4 ux:Global="grey-300" ux:Value="#E0E0E0" />
+	<float4 ux:Global="grey-400" ux:Value="#BDBDBD" />
+	<float4 ux:Global="grey-500" ux:Value="#9E9E9E" />
+	<float4 ux:Global="grey-600" ux:Value="#757575" />
+	<float4 ux:Global="grey-700" ux:Value="#616161" />
+	<float4 ux:Global="grey-800" ux:Value="#424242" />
+	<float4 ux:Global="grey-900" ux:Value="#212121" />
+	
+	<!-- blue-grey -->
+	<float4 ux:Global="blue-grey-50"  ux:Value="#ECEFF1" />
+	<float4 ux:Global="blue-grey-100" ux:Value="#CFD8DC" />
+	<float4 ux:Global="blue-grey-200" ux:Value="#B0BEC5" />
+	<float4 ux:Global="blue-grey-300" ux:Value="#90A4AE" />
+	<float4 ux:Global="blue-grey-400" ux:Value="#78909C" />
+	<float4 ux:Global="blue-grey-500" ux:Value="#607D8B" />
+	<float4 ux:Global="blue-grey-600" ux:Value="#546E7A" />
+	<float4 ux:Global="blue-grey-700" ux:Value="#455A64" />
+	<float4 ux:Global="blue-grey-800" ux:Value="#37474F" />
+	<float4 ux:Global="blue-grey-900" ux:Value="#263238" />
+
 </Panel>
